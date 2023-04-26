@@ -1,0 +1,22 @@
+fieldset {
+    width: 360px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: right;
+    padding: 1.5em;
+}
+
+label {
+    display: inline-block;
+}
+
+#aviso {
+    margin-top: 1em;
+    text-align: left;
+
+}
+
+input {
+    box-sizing: border-box;
+}
